@@ -6,7 +6,7 @@ when i prepare for my CISCO CCNA Certification.
 i use it 2 check out if my cisco configuration file on router or switch is correct.
 <br><br>
 it's really useful when you use paket tracer to practice how to config routers and swirches.
-<br>
+<br><br>
 
 <pre>
                            
