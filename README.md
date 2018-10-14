@@ -7,7 +7,8 @@ i use it 2 check out if my cisco configuration file on router or switch is corre
 <br><br>
 it's really useful when you use paket tracer to practice how to config routers and swirches.
 <br><br>
-
+![image](https://github.com/c0xffee/Comparer/blob/master/comp.PNG)
+<br><br>
 <pre>
                            
                                                 {        }      
